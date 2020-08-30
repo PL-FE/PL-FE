@@ -35,4 +35,9 @@
 [![](https://img.shields.io/badge/Bilibili-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/)
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/0f01f40b3bb2df8efb39f7b13682bd49" target="_blank">📊 每周工作报告</a>
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
