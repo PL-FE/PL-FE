@@ -32,3 +32,6 @@
 [![](https://img.shields.io/badge/-Riot%20Games-d32936?style=flat-square&logo=Riot%20Games&logoColor=ffffff)](https://www.riotgames.com/zh-cn)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198355306679/)
 [![](https://img.shields.io/badge/Bilibili-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/)
+
+<!-- waka-box start -->
+<!-- waka-box end -->
