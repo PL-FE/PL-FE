@@ -1,6 +1,6 @@
-<div style="height=100px">
-  <img src="https://blog-static.cnblogs.com/files/penglianger/timg.gif">
-  <img src="https://weather-icon.journeyad.repl.co/@dongguan?v=1" align="right">
+<div style="display:flex">
+<div style="flex:1"><img  src="https://blog-static.cnblogs.com/files/penglianger/timg.gif"></div>
+<div><img src="https://weather-icon.journeyad.repl.co/@dongguan?v=1" align="right"></div>
 </div>
 
 #### Platform&Tools
