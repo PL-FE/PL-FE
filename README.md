@@ -45,3 +45,7 @@ Text       🕓 2m     ░░░░░░░░░░░░░░░░░░░
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
+
+#### Interesting stats
+
+![Alexey's stats](https://github-readme-stats.vercel.app/api?username=pl-fe&show_icons=true)
