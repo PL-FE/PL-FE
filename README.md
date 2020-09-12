@@ -6,7 +6,7 @@
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/Linux-BT%20Panel-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://www.bt.cn/)
-[![](https://img.shields.io/badge/macOS-10.10%20Yosemite+-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/macOS-Yosemite+-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/iPhone-11-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
