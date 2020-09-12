@@ -49,3 +49,6 @@ Text       🕓 2m     ░░░░░░░░░░░░░░░░░░░
 #### Interesting stats
 
 ![Alexey's stats](https://github-readme-stats.vercel.app/api?username=pl-fe&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pl-fe&layout=compact)](https://github.com/PL-FE/)
+
