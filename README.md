@@ -1,6 +1,6 @@
-<div style="display:flex">
+<div align="center" style="display:flex">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-<div><img src="https://weather-icon.journeyad.repl.co/@dongguan?v=1" align="right"></div>
+<div><img src="https://weather-icon.journeyad.repl.co/@dongguan?v=1"></div>
 </div>
 
 #### Platform&Tools
@@ -35,7 +35,9 @@
 [![](https://img.shields.io/badge/Bilibili-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/)
 
 <!-- waka-box start -->
+
 #### <a href="https://gist.github.com/0f01f40b3bb2df8efb39f7b13682bd49" target="_blank">📊 每周工作报告</a>
+
 ```text
 HTML       🕓 9h3m ████████████████████████▏░░░░ 83.2%
 Markdown   🕓 58m  ██▌░░░░░░░░░░░░░░░░░░░░░░░░░░  8.9%
@@ -43,11 +45,10 @@ JavaScript 🕓 26m  █▏░░░░░░░░░░░░░░░░░�
 CSS        🕓 14m  ▋░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.3%
 Vue.js     🕓 9m   ▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.5%
 ```
+
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pl-fe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Alexey's stats](https://github-readme-stats.vercel.app/api?username=pl-fe&show_icons=true)
-
-
