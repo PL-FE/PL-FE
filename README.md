@@ -1,5 +1,5 @@
 <div style="display:flex">
-<div style="flex:1"><img  src="https://blog-static.cnblogs.com/files/penglianger/timg.gif"></div>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 <div><img src="https://weather-icon.journeyad.repl.co/@dongguan?v=1" align="right"></div>
 </div>
 
